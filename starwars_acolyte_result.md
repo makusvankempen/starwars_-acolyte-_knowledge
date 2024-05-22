@@ -1,3 +1,6 @@
+
+#The Acolyte (TV series)
+
 ***The Acolyte***, also known as ***Star Wars: The Acolyte***,[^1][^2]
 is an upcoming American [science
 fiction](Science_fiction_on_television "wikilink") television series
@@ -354,3 +357,24 @@ the series will be included at the end of 25th anniversary theatrical
 screenings of *[Star Wars: Episode I – The Phantom
 Menace](Star_Wars:_Episode_I_–_The_Phantom_Menace "wikilink")* (1999),
 starting on May 3 in time for *Star Wars* Day on May 4.[^110]
+
+## Release
+
+*The Acolyte* is scheduled to premiere on Disney+ on June 4, 2024, with
+its first two episodes. The other six episodes will be released
+weekly.[^1]
+
+## Lawsuit
+
+In March 2023, Karyn McCarthy sued Lucasfilm over breach of contract,
+stating that she was offered a producer role on both *The Acolyte* and
+the [Apple TV+](Apple_TV+ "wikilink") series
+*[Sugar](Sugar_(2024_TV_series) "wikilink")* and chose *The Acolyte*.
+After several weeks of work in April 2022 based on an initial agreement
+with Lucasfilm, McCarthy alleged that the studio chose to end her deal
+and not pay her for her work so far. By that time, the *Sugar* role was
+unavailable.[^2]
+
+##reference
+
+https://en.wikipedia.org/wiki/The_Acolyte_(TV_series)
