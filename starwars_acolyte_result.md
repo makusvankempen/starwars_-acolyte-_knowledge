@@ -1,5 +1,5 @@
 
-#The Acolyte (TV series)
+##The Acolyte (TV series)
 
 ***The Acolyte***, also known as ***Star Wars: The Acolyte***,[^1][^2]
 is an upcoming American [science
